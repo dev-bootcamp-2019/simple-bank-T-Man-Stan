@@ -77,3 +77,5 @@ contract SimpleBank {
         revert();
     }
 }
+
+echo "The time is $(date)."
